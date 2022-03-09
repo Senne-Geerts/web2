@@ -3,13 +3,11 @@
     <output-path>$PROJECT_DIR$/target</output-path>
     <properties id="maven-jee-properties">
       <options>
-        <exploded>false</exploded>
         <module>Geerts_Senne</module>
         <packaging>war</packaging>
-        <unpackNestedArchives>false</unpackNestedArchives>
       </options>
     </properties>
-    <root id="archive" name="Geerts_Senne-1.0-SNAPSHOT.war">
+    <root id="archive" name="Geerts_Senne-0.1.war">
       <element id="artifact" artifact-name="Geerts_Senne:war exploded" />
     </root>
   </artifact>
